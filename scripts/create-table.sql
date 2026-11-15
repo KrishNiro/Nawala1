@@ -1,0 +1,12 @@
+CREATE TABLE IF NOT EXISTS places (
+  id SERIAL PRIMARY KEY,
+  name TEXT NOT NULL,
+  category TEXT NOT NULL,
+  distance_km INTEGER NOT NULL,
+  visit_minutes INTEGER NOT NULL,
+  latitude DOUBLE PRECISION NOT NULL,
+  longitude DOUBLE PRECISION NOT NULL,
+  image TEXT NOT NULL,
+  description TEXT NOT NULL,
+  tip TEXT NOT NULL
+);

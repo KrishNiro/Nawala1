@@ -1,0 +1,29 @@
+{
+  "name": "nawala-simple",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch --env-file-if-exists=.env src/server.js",
+    "start": "node --env-file-if-exists=.env src/server.js",
+    "db:start": "node scripts/local-db.js start",
+    "db:stop": "node scripts/local-db.js stop",
+    "db:status": "node scripts/local-db.js status",
+    "db:seed": "node --env-file=.env scripts/seed.js",
+    "test": "node --test tests/app.test.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "drizzle-orm": "^0.44.0",
+    "express": "^5.1.0",
+    "htmx.org": "^2.0.4",
+    "leaflet": "^1.9.4",
+    "pg": "^8.16.0"
+  },
+  "devDependencies": {
+    "supertest": "^7.1.0"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

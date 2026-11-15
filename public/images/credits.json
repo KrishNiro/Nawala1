@@ -1,0 +1,93 @@
+[
+  {
+    "file": "galaboda.jpg",
+    "label": "Galaboda Waterfalls",
+    "artist": "Upekha Iddamalgoda",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Galboda_falls.jpg",
+    "title": "File:Galboda falls.jpg"
+  },
+  {
+    "file": "kadiyanlena.jpg",
+    "label": "Kadiyanlena Waterfall",
+    "artist": "Lykhaa",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kadiyanlena_waterfalls.jpg",
+    "title": "File:Kadiyanlena waterfalls.jpg"
+  },
+  {
+    "file": "ambuluwawa.jpg",
+    "label": "Ambuluwawa Tower",
+    "artist": "Lahiru26",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ambuluwawa_tower_srilanka.jpg",
+    "title": "File:Ambuluwawa tower srilanka.jpg"
+  },
+  {
+    "file": "resort.jpg",
+    "label": "Sri Lankan resort setting",
+    "representative": true,
+    "artist": "Richard Mortel",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cinammon_Resort,_Habarana,_Sri_Lanka.jpg"
+  },
+  {
+    "file": "kabaragala.jpg",
+    "label": "Kabaragala rock",
+    "representative": false,
+    "artist": "KR Frontliner 654321",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kabaragala_rock.jpg"
+  },
+  {
+    "file": "kovil.jpg",
+    "label": "Sri Lankan Hindu temple (Colombo)",
+    "representative": true,
+    "artist": "Pierre André Leclercq",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Colombo_-_Temple_of_Sri_Kailawasanathan_Swami_Devasthanam_(3).jpg"
+  },
+  {
+    "file": "church-photo.jpg",
+    "label": "St. Mary’s Church, Badulla",
+    "representative": true,
+    "artist": "A.Savin",
+    "license": "FAL",
+    "licenseUrl": "http://artlibre.org/licence/lal/en",
+    "source": "https://commons.wikimedia.org/wiki/File:SL_Badulla_asv2020-01_img20_StMary_Church.jpg"
+  },
+  {
+    "file": "stadium.jpg",
+    "label": "R. Premadasa Stadium, Colombo",
+    "representative": true,
+    "artist": "Harshadewa Ariyasinghe from Mount Lavinia, Sri Lanka",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:R_Premadasa_Stadium.jpg"
+  },
+  {
+    "file": "dolosbage.jpg",
+    "label": "Dolosbage mountain landscape",
+    "representative": true,
+    "artist": "Sanduni Dissanayake",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rakshagala_mountain,_Dolosbage,_Srilanka.jpg"
+  },
+  {
+    "file": "galpotha-representative.jpg",
+    "label": "Waterfall setting (Kadiyanlena)",
+    "artist": "Lykhaa",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kadiyanlena_waterfalls.jpg",
+    "title": "File:Kadiyanlena waterfalls.jpg",
+    "representative": true
+  }
+]
